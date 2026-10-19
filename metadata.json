@@ -1,0 +1,6 @@
+{
+  "name": "Was essen bei Sodbrennen? – Ratgeber & Tagespläne",
+  "description": "Der sanfte Weg zu einer beschwerdefreien Verdauung. 30 Seiten praktischer PDF-Ratgeber mit Sofortmaßnahmen, 3 Tagesplänen und Rezepten von Karin Zeit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
