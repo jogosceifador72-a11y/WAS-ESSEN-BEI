@@ -1,4 +1,5 @@
 import React from 'react';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 import { Navbar } from './components/Navbar';
 import { HeroSection } from './components/HeroSection';
 import { ProblemSolutionSection } from './components/ProblemSolutionSection';
@@ -61,6 +62,9 @@ export default function App() {
 
       {/* Mobile Sticky Bar (<15% viewport height) */}
       <StickyMobileBar />
+
+      {/* Vercel Speed Insights */}
+      <SpeedInsights />
     </div>
   );
 }
